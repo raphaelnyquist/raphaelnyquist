@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raphaelnyquist
+- 👀 I’m interested in web and mobile dev
+- 🌱 I’m currently learning game dev
+- 💞️ I’m looking to collaborate on a web app
+- 📫 How to reach me: markdonald13#8128 (Discord)
